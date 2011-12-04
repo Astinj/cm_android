@@ -170,7 +170,7 @@
   <project path="packages/apps/CMUpdateNotify" name="CyanogenMod/android_packages_apps_CMUpdateNotify" remote="github" revision="614768e1a28bf16e629d235c696fa08162ff3334"/>
   <project path="packages/apps/SoundRecorder" name="peteralfonso/platform_packages_apps_SoundRecorder" remote="github"/>
   <project path="packages/apps/Stk" name="platform/packages/apps/Stk"/>
-  <project path="packages/apps/Superuser" name="gfunkmonk/android_packages_apps_Superuser" remote="github" revision="gingerbread"/>
+  <project path="packages/apps/Superuser" name="voku/android_packages_apps_Superuser" remote="github" revision="gingerbread"/>
   <project path="packages/apps/Torch" name="CyanogenMod/android_packages_apps_Torch" remote="github"/>
   <project path="packages/apps/TSCalibration" name="CyanogenMod/android_packages_apps_TSCalibration" remote="github"/>
   <project path="packages/apps/VoiceDialer" name="dh-harald/cm_android_packages_apps_VoiceDialer" remote="github"/>
