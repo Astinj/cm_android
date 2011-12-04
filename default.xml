@@ -90,7 +90,7 @@
   <project path="external/ppp" name="platform/external/ppp"/>
   <project path="external/proguard" name="platform/external/proguard"/>
   <project path="external/qemu" name="platform/external/qemu" revision="f6b937d9a93b474439c2e602bee39542db796beb"/> 
-  <project path="external/quake" name="platform/external/quake" revision="483b595da7ef9bffa610d1992d565a26fd6b16ed"/> 
+  <project path="external/quake" name="CyanogenMod/android_external_quake" remote="github"/>
   <project path="external/rsync" name="dylex/android_external_rsync" remote="github" revision="master"/>
   <project path="external/safe-iop" name="platform/external/safe-iop"/>
   <project path="external/skia" name="voku/android_external_skia" remote="github"/>
